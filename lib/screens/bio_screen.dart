@@ -53,7 +53,7 @@ class BioScreen extends StatelessWidget {
                 height: 5,
               ),
               Text(
-                'Flutter Course - Vision plus company',
+                'Flutter Course',
                 style: TextStyle(fontSize: 17, color: Colors.black54),
               ),
               SizedBox(
